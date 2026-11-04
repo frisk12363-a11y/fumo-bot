@@ -1,0 +1,39 @@
+fumo bot requirements
+
+INSTALLING VSCODE
+
+https://code.visualstudio.com/thank-you?dv=win64user&build=stable
+
+INSTALLING PYTHON:
+
+Python Install Manager (you can get this one on the Microsoft store)
+
+set that up
+
+WHEN SETTING UP DO THESE IN THIS ORDER
+
+PRESS Y
+
+PRESS Y
+
+PRESS Y
+
+PRESS N
+
+it should close
+
+now open command prompt and install the things you need for the bot to work
+
+pip install discord.py
+
+pip install aiohttp
+
+Now get the python plugin in vscode
+
+open it with cntrl + shift + X
+
+or just click the blocks icon
+
+and search up python and install it
+
+there should be a play button press it and now its running and your bot works
